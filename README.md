@@ -1,5 +1,5 @@
 # Environmental Engineer
-logo: /*Huiyun Wu-pbc-1758.jpg
+
 
 ### Education
 
