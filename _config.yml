@@ -5,10 +5,9 @@ descriptioin: > # this means to ignore newlines until "baseurl:"
    The website for the research group of Dr. Huiyun Wu at the Washington State University
    in the Department of Civil and Environmental Engineering 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://wuhuiyun07.github.io/huiyunwulab.github.io/" # the base hostname & protocol for your site
+url: "https://wuhuiyun07.github.io/Wulab.github.io/" # the base hostname & protocol for your site
 github_username: wuhuiyun07
 logo: assets/img/HWu.jpg
-theme: jekyll-theme-minimal
 
 # Build settings
 markdown: kramdown
@@ -21,6 +20,6 @@ collections:
   papers:
     output: true
 
-# remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+plugins:
+  - jekyll-sitemap
