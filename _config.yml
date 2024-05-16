@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://wuhuiyun07.github.io/huiyunwulab.github.io/" # the base hostname & protocol for your site
 github_username: wuhuiyun07
 logo: assets/img/HWu.jpg
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
 # Build settings
 markdown: kramdown
