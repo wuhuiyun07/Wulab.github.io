@@ -9,7 +9,6 @@ url: "https://wuhuiyun07.github.io/huiyunwulab.github.io/" # the base hostname &
 github_username: wuhuiyun07
 logo: assets/img/HWu.jpg
 # theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
 
 # Build settings
 markdown: kramdown
@@ -22,6 +21,6 @@ collections:
   papers:
     output: true
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
