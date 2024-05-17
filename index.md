@@ -1,10 +1,9 @@
 ---
 ---
 
-# Lab Website Template
+<!-- # The Huiyun Wu Lab -->
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Our lab is a conduct research in areas such as Microbial water quality, water reuse and cycles, bioinformatics, one health, and fate and transport models.
 
 {%
   include button.html
