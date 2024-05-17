@@ -1,10 +1,10 @@
 # site properties and page defaults
 title: The Health-related Water Microbiology Lab
-description: The website for the research group of Dr. Huiyun Wu at the Washington State University
-   in the Department of Civil and Environmental Engineering 
+subtitle: Department of Civil and Environmental Engineering
+description: Study microbioal Water Quality using molecular genetic tools and bioinformatics tools; Aiming to conduct open science research
    #An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/icon.png
+footer: images/MisRiver.HEIC
 proofer: false
 
 # site social media and other links
@@ -13,6 +13,7 @@ links:
   orcid: 0000-0001-8935-7759
   google-scholar: sAIJSssAAAAJ
   github: wuhuiyun07
+  # website:
   # twitter: YourLabHandle
   # youtube: YourLabChannel
 
